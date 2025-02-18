@@ -1,0 +1,1 @@
+Code and dataset used in the paper "A comparative analysis of deep learning and chemometric approaches for spectral data modeling", Rúben Gariso, João P.L. Coutinho, Tiago J. Rato, Marco S. Reis, Analytica Chimica Acta, 2025, https://www.sciencedirect.com/science/article/pii/S0003267025001606

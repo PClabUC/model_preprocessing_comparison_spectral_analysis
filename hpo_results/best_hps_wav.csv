@@ -1,0 +1,4 @@
+,wav_levels,units,kernel_size,l2,lr,pool_type,act,n_filters,pool_size,n_hidden_layers,use_batch_norm
+haar,3,78,35,0.05971061854813249,0.0068570813528262085,avg_pool,relu,1,3,1,False
+db6,2,74,101,0.04056820895324595,0.007318932703805723,avg_pool,tanh,1,3,1,False
+sym6,3,100,50,0.02822573832766954,0.007462788247682048,max_pool,tanh,1,3,1,False
